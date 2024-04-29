@@ -1,0 +1,79 @@
+﻿@model IEnumerable<CrudUsingEntityframework.Models.ContactMaster>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@{
+    ViewBag.Title = "Contacts";
+}
+
+<h2>Contacts</h2>
+
+<table id="contactTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Contact ID</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>Email</th>
+            <th>DOB</th>
+            <th>Contact Number</th>
+            <th>Address</th>
+            <th>IsActive</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#contactTable').DataTable({
+                ajax: {
+                    url: '@Url.Action("GetContacts", "Contact")',
+                    dataSrc: ''
+                },
+                columns: [
+                    { data: 'ContactId' },
+                    { data: 'Name' },
+                    { data: 'City' },
+                    { data: 'Email' },
+                    {
+                        data: 'DOB',
+                        render: function (data) {
+                            return moment(data).format('YYYY-MM-DD');
+                        }
+                    },
+                    { data: 'ContactNumber' },
+                    { data: 'Address' },
+                    { data: 'IsActive' },
+
+                    {
+                        data: 'ContactID',
+                        render: function (data) {
+                            return '<button class="btn btn-info" onclick="editContact(' + data + ')">Edit</button>' +
+                                '<button class="btn btn-danger" onclick="deleteContact(' + data + ')">Delete</button>';
+                        }
+                    }
+                ]
+            });
+        });
+
+        function editContact(id) {
+            $.get('@Url.Action("Edit", "Contact")', { id: id }, function (data) {
+                $('#editModalBody').html(data);
+                $('#editModal').modal('show');
+            });
+        }
+
+        function deleteContact(id) {
+            $.get('@Url.Action("Delete", "Contact")', { id: id }, function (data) {
+                $('#deleteModalBody').html(data);
+                $('#deleteModal').modal('show');
+            });
+        }
+    </script>
+}

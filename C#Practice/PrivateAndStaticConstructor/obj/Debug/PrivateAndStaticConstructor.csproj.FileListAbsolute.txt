@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\bin\Debug\PrivateAndStaticConstructor.exe.config
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\bin\Debug\PrivateAndStaticConstructor.exe
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\bin\Debug\PrivateAndStaticConstructor.pdb
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\obj\Debug\PrivateAndStaticConstructor.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\obj\Debug\PrivateAndStaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\obj\Debug\PrivateAndStaticConstructor.exe
+C:\Users\sunit\source\repos\Solution1\PrivateAndStaticConstructor\obj\Debug\PrivateAndStaticConstructor.pdb

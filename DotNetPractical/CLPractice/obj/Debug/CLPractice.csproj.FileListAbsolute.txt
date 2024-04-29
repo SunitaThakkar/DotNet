@@ -1,0 +1,6 @@
+C:\Users\sunit\source\repos\DotNetPractical\CLPractice\bin\Debug\CLPractice.dll
+C:\Users\sunit\source\repos\DotNetPractical\CLPractice\bin\Debug\CLPractice.pdb
+C:\Users\sunit\source\repos\DotNetPractical\CLPractice\obj\Debug\CLPractice.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\CLPractice\obj\Debug\CLPractice.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\CLPractice\obj\Debug\CLPractice.dll
+C:\Users\sunit\source\repos\DotNetPractical\CLPractice\obj\Debug\CLPractice.pdb

@@ -1,0 +1,11 @@
+C:\Users\sunit\source\repos\Solution1\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\Solution1\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\Solution1\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\sunit\source\repos\Solution1\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\sunit\source\repos\Solution1\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\sunit\source\repos\Solution1\Abstraction\bin\Debug\DotLiquid.dll
+C:\Users\sunit\source\repos\Solution1\Abstraction\bin\Debug\DotLiquid.xml
+C:\Users\sunit\source\repos\Solution1\Abstraction\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\sunit\source\repos\Solution1\Abstraction\obj\Debug\Abstraction.csproj.CopyComplete
+C:\Users\sunit\source\repos\Solution1\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\sunit\source\repos\Solution1\Abstraction\obj\Debug\Abstraction.pdb

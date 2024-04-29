@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\Solution1\Swapping\bin\Debug\Swapping.exe.config
+C:\Users\sunit\source\repos\Solution1\Swapping\bin\Debug\Swapping.exe
+C:\Users\sunit\source\repos\Solution1\Swapping\bin\Debug\Swapping.pdb
+C:\Users\sunit\source\repos\Solution1\Swapping\obj\Debug\Swapping.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\Solution1\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\Solution1\Swapping\obj\Debug\Swapping.exe
+C:\Users\sunit\source\repos\Solution1\Swapping\obj\Debug\Swapping.pdb

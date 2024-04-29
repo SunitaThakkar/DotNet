@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gihub\\DotNet\\MVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|d:\\gihub\\dotnet\\mvcapplication\\mvcapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|d:\\gihub\\dotnet\\mvcapplication\\mvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|D:\\Gihub\\DotNet\\MVCApplication\\mvcapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|D:\\Gihub\\DotNet\\MVCApplication\\mvcapplication\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|D:\\Gihub\\DotNet\\MVCApplication\\mvcapplication\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|D:\\Gihub\\DotNet\\MVCApplication\\mvcapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE5936BA-82A3-4D68-A90F-2C8EFD527459}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Framework Applications\\MVCApplication\\MVCApplication\\Repository\\StudentRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T03:52:37.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Student\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T10:22:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T10:17:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T10:16:55.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Framework Applications\\MVCApplication\\MVCApplication\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Framework Applications\\MVCApplication\\MVCApplication\\Repository\\StudentRepo.cs",
+              "ToolTip": "D:\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Framework Applications\\MVCApplication\\MVCApplication\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\Documents\\Github\\Learn At Rise\\DotNet\\DotNet Framework Applications\\MVCApplication\\MVCApplication\\Repository\\StudentRepo.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAYwIgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:04:59.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T10:01:58.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Gihub\\DotNet\\MVCApplication\\MVCApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVCApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T10:01:07.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

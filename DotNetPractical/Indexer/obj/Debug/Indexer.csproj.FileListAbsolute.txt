@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\bin\Debug\Indexer.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\bin\Debug\Indexer.exe
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\bin\Debug\Indexer.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\obj\Debug\Indexer.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\obj\Debug\Indexer.exe
+C:\Users\sunit\source\repos\DotNetPractical\Indexer\obj\Debug\Indexer.pdb

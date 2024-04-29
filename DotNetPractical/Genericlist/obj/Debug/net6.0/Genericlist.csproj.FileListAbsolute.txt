@@ -1,0 +1,14 @@
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\bin\Debug\net6.0\Genericlist.exe
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\bin\Debug\net6.0\Genericlist.deps.json
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\bin\Debug\net6.0\Genericlist.runtimeconfig.json
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\bin\Debug\net6.0\Genericlist.dll
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\bin\Debug\net6.0\Genericlist.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.AssemblyInfoInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.AssemblyInfo.cs
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.dll
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\refint\Genericlist.dll
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\Genericlist.genruntimeconfig.cache
+C:\Users\sunit\source\repos\DotNetPractical\Genericlist\obj\Debug\net6.0\ref\Genericlist.dll

@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\Properties\bin\Debug\Properties.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\Properties\bin\Debug\Properties.exe
+C:\Users\sunit\source\repos\DotNetPractical\Properties\bin\Debug\Properties.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Properties\obj\Debug\Properties.exe
+C:\Users\sunit\source\repos\DotNetPractical\Properties\obj\Debug\Properties.pdb

@@ -1,0 +1,10 @@
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\bin\Debug\ClassL.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\bin\Debug\ClassL.exe
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\bin\Debug\ClassL.pdb
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\bin\Debug\CLPractice.dll
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\bin\Debug\CLPractice.pdb
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\obj\Debug\ClassLApp.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\obj\Debug\ClassLApp.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\obj\Debug\ClassLApp.csproj.Up2Date
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\obj\Debug\ClassL.exe
+C:\Users\sunit\source\repos\DotNetPractical\ClassL\obj\Debug\ClassL.pdb

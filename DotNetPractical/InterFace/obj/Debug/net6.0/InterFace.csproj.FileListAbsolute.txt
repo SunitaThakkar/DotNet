@@ -1,0 +1,14 @@
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\bin\Debug\net6.0\InterFace.exe
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\bin\Debug\net6.0\InterFace.deps.json
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\bin\Debug\net6.0\InterFace.runtimeconfig.json
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\bin\Debug\net6.0\InterFace.dll
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\bin\Debug\net6.0\InterFace.pdb
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.AssemblyInfoInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.AssemblyInfo.cs
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.dll
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\refint\InterFace.dll
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.pdb
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\InterFace.genruntimeconfig.cache
+C:\Users\sunit\source\repos\DotNetPractical\InterFace\obj\Debug\net6.0\ref\InterFace.dll

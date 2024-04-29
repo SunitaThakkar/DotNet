@@ -1,0 +1,11 @@
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\bin\Debug\NameSpace.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\bin\Debug\NameSpace.exe
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\bin\Debug\NameSpace.pdb
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\bin\Debug\AccessModifier.exe
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\bin\Debug\AccessModifier.pdb
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\bin\Debug\AccessModifier.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\obj\Debug\NameSpace.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\obj\Debug\NameSpace.csproj.Up2Date
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\obj\Debug\NameSpace.exe
+C:\Users\sunit\source\repos\DotNetPractical\NameSpace\obj\Debug\NameSpace.pdb

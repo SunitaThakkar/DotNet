@@ -1,0 +1,9 @@
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\bin\Debug\BusinessEntity.dll
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\bin\Debug\BusinessEntity.pdb
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\obj\Debug\BusinessEntity.csproj.AssemblyReference.cache
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\obj\Debug\BusinessEntity.csproj.CoreCompileInputs.cache
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\obj\Debug\BusinessEntity.csproj.CopyComplete
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\obj\Debug\BusinessEntity.dll
+D:\Gihub\DotNet\MVCApplication\BusinessEntity\obj\Debug\BusinessEntity.pdb

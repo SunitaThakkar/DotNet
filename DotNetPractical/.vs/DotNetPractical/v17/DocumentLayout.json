@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9842581-AEF8-497C-9A33-CBCE4209D9E9}|D:\\Gihub\\DotNet\\LinqueQuesries\\LinqueQuesries.csproj|d:\\gihub\\dotnet\\linquequesries\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3046DB59-797D-4230-B337-8A79189F9D9D}|EscapeSequence\\EscapeSequence.csproj|c:\\users\\sunit\\source\\repos\\dotnetpractical\\escapesequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3046DB59-797D-4230-B337-8A79189F9D9D}|EscapeSequence\\EscapeSequence.csproj|solutionrelative:escapesequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA96BC-91C3-4D94-8D3B-05D9AFC33AC1}|D:\\Gihub\\DotNet\\DelegatesEx1\\DelegatesEx1.csproj|d:\\gihub\\dotnet\\delegatesex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA96BC-91C3-4D94-8D3B-05D9AFC33AC1}|D:\\Gihub\\DotNet\\DelegatesEx1\\DelegatesEx1.csproj|d:\\gihub\\dotnet\\delegatesex1\\delegatesex1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012AB208-1497-4142-BAA0-814A3E0A85DA}|D:\\Gihub\\DotNet\\FunctionDelegates\\FunctionDelegates.csproj|d:\\gihub\\dotnet\\functiondelegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C89BA5A-4781-4FC1-BA8B-6D83B659C257}|Genericlist\\Genericlist.csproj|c:\\users\\sunit\\source\\repos\\dotnetpractical\\genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C89BA5A-4781-4FC1-BA8B-6D83B659C257}|Genericlist\\Genericlist.csproj|solutionrelative:genericlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7728EDE9-B102-4F34-B1DC-E34769A2B640}|InterFace\\InterFace.csproj|c:\\users\\sunit\\source\\repos\\dotnetpractical\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7728EDE9-B102-4F34-B1DC-E34769A2B640}|InterFace\\InterFace.csproj|solutionrelative:interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B245BA9-7E7B-4712-A237-9304575DD26B}|Indexer\\Indexer.csproj|C:\\Users\\sunit\\source\\repos\\DotNetPractical\\indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B245BA9-7E7B-4712-A237-9304575DD26B}|Indexer\\Indexer.csproj|solutionrelative:indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C89BA5A-4781-4FC1-BA8B-6D83B659C257}|Genericlist\\Genericlist.csproj|c:\\users\\sunit\\source\\repos\\dotnetpractical\\genericlist\\genericlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C89BA5A-4781-4FC1-BA8B-6D83B659C257}|Genericlist\\Genericlist.csproj|solutionrelative:genericlist\\genericlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\EscapeSequence\\Program.cs",
+              "RelativeDocumentMoniker": "EscapeSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\EscapeSequence\\Program.cs",
+              "RelativeToolTip": "EscapeSequence\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T04:13:15.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\LinqueQuesries\\Program.cs",
+              "ToolTip": "D:\\Gihub\\DotNet\\LinqueQuesries\\Program.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAIwJAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T03:49:07.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\FunctionDelegates\\Program.cs",
+              "ToolTip": "D:\\Gihub\\DotNet\\FunctionDelegates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:43:23.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DelegatesEx1.csproj",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\DelegatesEx1\\DelegatesEx1.csproj",
+              "ToolTip": "D:\\Gihub\\DotNet\\DelegatesEx1\\DelegatesEx1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T17:22:14.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\Indexer\\Program.cs",
+              "RelativeToolTip": "Indexer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:54:01.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\InterFace\\Program.cs",
+              "RelativeDocumentMoniker": "InterFace\\Program.cs",
+              "ToolTip": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\InterFace\\Program.cs",
+              "RelativeToolTip": "InterFace\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwDYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:47:54.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Gihub\\DotNet\\DelegatesEx1\\Program.cs",
+              "ToolTip": "D:\\Gihub\\DotNet\\DelegatesEx1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:31:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genericlist.csproj",
+              "DocumentMoniker": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\Genericlist\\Genericlist.csproj",
+              "RelativeDocumentMoniker": "Genericlist\\Genericlist.csproj",
+              "ToolTip": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\Genericlist\\Genericlist.csproj",
+              "RelativeToolTip": "Genericlist\\Genericlist.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T12:29:56.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\Genericlist\\Program.cs",
+              "RelativeDocumentMoniker": "Genericlist\\Program.cs",
+              "ToolTip": "C:\\Users\\sunit\\source\\repos\\DotNetPractical\\Genericlist\\Program.cs",
+              "RelativeToolTip": "Genericlist\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:59:34.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

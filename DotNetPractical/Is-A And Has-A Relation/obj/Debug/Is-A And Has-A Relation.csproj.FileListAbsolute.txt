@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\bin\Debug\Is-A And Has-A Relation.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\bin\Debug\Is-A And Has-A Relation.exe
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\bin\Debug\Is-A And Has-A Relation.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\obj\Debug\Is-A And Has-A Relation.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\obj\Debug\Is-A And Has-A Relation.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\obj\Debug\Is-A And Has-A Relation.exe
+C:\Users\sunit\source\repos\DotNetPractical\Is-A And Has-A Relation\obj\Debug\Is-A And Has-A Relation.pdb

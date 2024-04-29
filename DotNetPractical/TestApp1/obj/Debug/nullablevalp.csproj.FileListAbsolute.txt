@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\bin\Debug\TestApp1.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\bin\Debug\TestApp1.exe
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\bin\Debug\TestApp1.pdb
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\obj\Debug\nullablevalp.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\obj\Debug\nullablevalp.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\obj\Debug\TestApp1.exe
+C:\Users\sunit\source\repos\DotNetPractical\TestApp1\obj\Debug\TestApp1.pdb

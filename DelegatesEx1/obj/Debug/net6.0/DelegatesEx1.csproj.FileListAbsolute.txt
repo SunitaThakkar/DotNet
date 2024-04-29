@@ -1,0 +1,15 @@
+D:\Gihub\DotNet\DelegatesEx1\bin\Debug\net6.0\DelegatesEx1.exe
+D:\Gihub\DotNet\DelegatesEx1\bin\Debug\net6.0\DelegatesEx1.deps.json
+D:\Gihub\DotNet\DelegatesEx1\bin\Debug\net6.0\DelegatesEx1.runtimeconfig.json
+D:\Gihub\DotNet\DelegatesEx1\bin\Debug\net6.0\DelegatesEx1.dll
+D:\Gihub\DotNet\DelegatesEx1\bin\Debug\net6.0\DelegatesEx1.pdb
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.AssemblyInfoInputs.cache
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.AssemblyInfo.cs
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.csproj.CoreCompileInputs.cache
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.sourcelink.json
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.dll
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\refint\DelegatesEx1.dll
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.pdb
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\DelegatesEx1.genruntimeconfig.cache
+D:\Gihub\DotNet\DelegatesEx1\obj\Debug\net6.0\ref\DelegatesEx1.dll

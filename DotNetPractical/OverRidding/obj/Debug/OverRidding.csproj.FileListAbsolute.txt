@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\bin\Debug\OverRidding.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\bin\Debug\OverRidding.exe
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\bin\Debug\OverRidding.pdb
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\obj\Debug\OverRidding.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\obj\Debug\OverRidding.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\obj\Debug\OverRidding.exe
+C:\Users\sunit\source\repos\DotNetPractical\OverRidding\obj\Debug\OverRidding.pdb

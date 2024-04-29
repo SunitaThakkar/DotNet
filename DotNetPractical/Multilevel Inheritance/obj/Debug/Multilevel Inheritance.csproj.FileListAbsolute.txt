@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\bin\Debug\Multilevel Inheritance.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\bin\Debug\Multilevel Inheritance.exe
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\bin\Debug\Multilevel Inheritance.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.exe
+C:\Users\sunit\source\repos\DotNetPractical\Multilevel Inheritance\obj\Debug\Multilevel Inheritance.pdb

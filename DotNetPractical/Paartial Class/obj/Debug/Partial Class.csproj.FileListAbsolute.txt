@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\bin\Debug\Paartial Class.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\bin\Debug\Paartial Class.exe
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\bin\Debug\Paartial Class.pdb
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\obj\Debug\Partial Class.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\obj\Debug\Partial Class.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\obj\Debug\Paartial Class.exe
+C:\Users\sunit\source\repos\DotNetPractical\Paartial Class\obj\Debug\Paartial Class.pdb

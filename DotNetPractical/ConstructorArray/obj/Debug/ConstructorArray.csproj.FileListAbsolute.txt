@@ -1,0 +1,7 @@
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\bin\Debug\ConstructorArray.exe.config
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\bin\Debug\ConstructorArray.exe
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\bin\Debug\ConstructorArray.pdb
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\obj\Debug\ConstructorArray.csproj.AssemblyReference.cache
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\obj\Debug\ConstructorArray.csproj.CoreCompileInputs.cache
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\obj\Debug\ConstructorArray.exe
+C:\Users\sunit\source\repos\DotNetPractical\ConstructorArray\obj\Debug\ConstructorArray.pdb

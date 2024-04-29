@@ -1,0 +1,15 @@
+D:\Gihub\DotNet\LinqueQuesries\bin\Debug\net6.0\LinqueQuesries.exe
+D:\Gihub\DotNet\LinqueQuesries\bin\Debug\net6.0\LinqueQuesries.deps.json
+D:\Gihub\DotNet\LinqueQuesries\bin\Debug\net6.0\LinqueQuesries.runtimeconfig.json
+D:\Gihub\DotNet\LinqueQuesries\bin\Debug\net6.0\LinqueQuesries.dll
+D:\Gihub\DotNet\LinqueQuesries\bin\Debug\net6.0\LinqueQuesries.pdb
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.AssemblyInfoInputs.cache
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.AssemblyInfo.cs
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.csproj.CoreCompileInputs.cache
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.sourcelink.json
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.dll
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\refint\LinqueQuesries.dll
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.pdb
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\LinqueQuesries.genruntimeconfig.cache
+D:\Gihub\DotNet\LinqueQuesries\obj\Debug\net6.0\ref\LinqueQuesries.dll
